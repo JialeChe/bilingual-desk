@@ -1,0 +1,3 @@
+# Direct runtime dependencies. requirements.txt pins the resolved versions.
+# Desktop UI uses tkinter/ttk from Python's standard library.
+httpx

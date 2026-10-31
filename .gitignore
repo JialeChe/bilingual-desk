@@ -1,0 +1,18 @@
+# Python environment and generated files
+.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+
+# Local settings and documents
+.env
+.env.*
+!.env.example
+data/
+*.log
+
+# Packaging output
+build/
+dist/
